@@ -34,6 +34,13 @@ theme: minima
 plugins:
   - jekyll-feed
 
+timezone: Asia/Seoul
+
+url: "https://snakelib.github.io"
+
+github:
+  username: snakegreen1
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
